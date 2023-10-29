@@ -7,7 +7,9 @@ or get the [CI build](http://vsixgallery.com/extension/ee6375e5-ed09-4fba-a897-8
 
 ---------------------------------------
 
-Visual Studio 2015-2019 extension
+# Modified to work with VS 2022 Enterprise x64 version!
+
+Visual Studio Enterprise 2022 x64 extension
 
 Close document tabs to the right of the current document.
 
