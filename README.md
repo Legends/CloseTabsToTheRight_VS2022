@@ -6,8 +6,10 @@ Download this extension from the [VS Marketplace](https://visualstudiogallery.ms
 or get the [CI build](http://vsixgallery.com/extension/ee6375e5-ed09-4fba-a897-895813190958/).
 
 ---------------------------------------
+## Original repo created by Bill Pratt
+[Bill Pratt's 'CloseTabsToRight' repository](https://github.com/billpratt/CloseTabsToRight) 
 
-# Modified to work with VS 2022 Enterprise x64 version!
+## Modified to work with VS 2022 Enterprise x64 version!
 
 Visual Studio Enterprise 2022 x64 extension
 
